@@ -189,3 +189,8 @@ header p {
 #contact p {
   margin-bottom: 10px;
 }
+
+/* Adjust height of the image */
+.about-me-content img {
+  height: 300px; /* Adjust the height as needed */
+}
